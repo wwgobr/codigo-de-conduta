@@ -1,8 +1,8 @@
 # Código de conduta
 
-Guia da comunidade, inspirado no [Anti-Harassment Policy da Google](https://support.google.com/developergroups/answer/3340512?hl=en&ref_topic=3340510) para os GDGs. Nós apoiamos também condutas como [Não seja um idiota](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk).
+Guia da comunidade, inspirado no [Anti-Harassment Policy da Google](https://support.google.com/developergroups/answer/3340512?hl=en&ref_topic=3340510) para os GDGs e adaptado a partir do Código de Conduta do GDG Belo Horizonte. Nós apoiamos também condutas como [Não seja um idiota](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk).
 
-### Porque temos um código de conduta para o GDG Belo Horizonte?
+### Porque temos um código de conduta para o Women Who Go?
 
 Ele cria expectativas de comportamento nos nossos eventos. Só ter um código de conduta pode evitar assédio.
 Ele encoraja pessoas que já tiveram experiências ruins anteriormente a participarem dos nossos eventos.
@@ -41,9 +41,8 @@ Parceiros, expositores e palestrantes também estão sujeitos ao código de cond
 Se você está sendo sofrendo algum tipo de assédio, percebeu que alguém está ou tem qualquer outra intenção, por favor, [contate imediatamente](mailto:gdgbhz@gmail.com) um organizador ou voluntário. Eles podem ser identificados por camisas ou crachás especiais em eventos ou através de marcações especiais nos meetups, no caso de eventos online. Os organizadores irão investigar o problema e tomar as ações devidas. Isso pode incluir ajudar os participantes a contatarem a segurança ou as autoridades locais, providenciar escoltas ou ajudar de alguma outra forma os que estiverem sofrendo assédio a se sentirem seguros durante o evento.
 
 **Contato:**
-- [gdgbhz@gmail.com](mailto:gdgbhz@gmail.com)
-- [gdgbh.org](http://gdgbh.org)
-- [@gdg_bh](http://twitter.com/gdg_bh)
+- [daniela@womenwhogo.org](mailto:daniela@womenwhogo.org)
+- [@WWGBrasil](http://twitter.com/WWGBrasil)
 
 Apesar de esperarmos que nunca precisemos invocar esse código de conduta, acreditamos que ter esse documento leva todos a uma reflexão sobre como suas ações e palavras afetam toda a comunidade, assim como indivíduos da comunidade.
 
